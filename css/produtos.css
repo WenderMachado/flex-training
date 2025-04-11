@@ -1,0 +1,36 @@
+.produtos h2{
+  padding: 6rem 0;
+  font-size: 4.8rem;
+}
+
+.produtos-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-end;
+}
+
+.produtos-item{
+  flex: 1 1 20rem;
+}
+
+.produtos-item h3{
+  font-size: 3.6rem;
+  color: #a4a4a4;
+  background: #f7f7f7;
+  padding: 6rem 2rem;
+}
+
+.produtos-item img {
+  height: 30rem;
+  object-fit: cover;
+}
+.purple{
+  border-top: #ae81ff solid 8px;
+}
+.pink{
+  border-top: #f9265e solid 8px;
+}
+.blue{
+  border-top: #66d9eb solid 8px;
+}

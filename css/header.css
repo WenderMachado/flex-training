@@ -38,6 +38,7 @@
 .menu-links{
   display: flex;
   gap: 2rem;
+ 
 }
 .menu-links a{
   color: #fff;
@@ -54,5 +55,5 @@
   text-decoration: none;
   font-size: 3.6rem;
   font-weight: bold;
-  padding: 1.5rem 2rem;
+  padding: 1.5rem;
 }

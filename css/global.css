@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Nanito+Sans";
+  font-family: "Nanito", Arial, Helvetica, sans-serif;
+  color: #222;
 }
 html{
   font-size: 62.5%;

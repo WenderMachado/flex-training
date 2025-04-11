@@ -15,6 +15,7 @@
   margin-bottom: 1.2rem;
   max-width: 48ch;
   color: #7c7c7c;
+  margin-right: 4rem;
 }
 .sobre-info{
   flex: 2 1 30rem;
@@ -22,4 +23,11 @@
 .sobre-img{
   flex: 1 1 25rem;
   padding: 1rem 0;
+}
+@media (max-width: 50rem) {
+  .sobre-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }

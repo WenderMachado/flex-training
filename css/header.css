@@ -1,0 +1,44 @@
+.super-info-bg{
+ background-color: rgb(38, 79, 212);
+ color: white;
+}
+.super-info{
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  padding: 1.5rem 3rem;
+  align-items: center;
+}
+
+.super-info a{
+  color: white;
+  text-decoration: none;
+  font-size: 2.4rem;
+}
+
+.menu-bg{
+  background-color: rgb(122, 171, 218);
+}
+
+.menu-header{
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  padding: 1.5rem 3rem;
+}
+
+.menu-links{
+  display: flex;
+  gap: 2rem;
+}
+.menu-links a{
+  color: white;
+  text-decoration: none;
+  font-size: 2.4rem;
+  padding: 1.5rem 0rem;
+}
+.menu-logo a{
+  color: white;
+  text-decoration: none;
+  font-size: 3.6rem;
+}
